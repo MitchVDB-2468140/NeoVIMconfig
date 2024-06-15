@@ -1,0 +1,2 @@
+# NeoVIMconfig-
+Personal NeoVIM configuration
